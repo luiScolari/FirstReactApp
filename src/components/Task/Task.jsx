@@ -27,6 +27,11 @@ const Task = ({ task, handleTaskClick, handleTaskDeletion }) => {
           <CgInfo />
         </button>
       </div>
+      <div>
+
+      <h1>im here</h1>
+
+      </div>
     </div>
   );
 
